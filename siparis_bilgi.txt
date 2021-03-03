@@ -1,0 +1,7 @@
+SIPARIS ID     URUN ID     URUN ISMI                     URUN ADET   KARGO S.    
+813278         1000        sony m5 aqua                  100         MNG         
+813279         1001        bloody mouse                  84          ARAS        
+813280         1009        cooler master klavye          99          PTT         
+813281         1010        iphone 5                      100         UPS         
+813282         1005        32gb sandisk usb              50          SURAT       
+813283         1004        everest kulaklik              300         MNG         

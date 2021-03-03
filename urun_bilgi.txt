@@ -1,0 +1,12 @@
+URUN ID     URUN ISMI                     URUN ADET   
+1001        bloody mouse                  650             
+1002        samsung j5 32gb               900       
+1003        dell inspiron 15              500       
+1004        everest kulaklik              400       
+1005        32gb sandisk usb              650       
+1006        trust power bank              602       
+1008        razer mousepad (uzun)         100       
+1009        cooler master klavye          440       
+1010        playstation 4 pro             800       
+1011        ony m5                        1000      
+1000        sony m5 aqua                  150       
